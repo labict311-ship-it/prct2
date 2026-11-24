@@ -17,3 +17,4 @@ def fibonacci(prev1, prev2):
         fibonacci(prev1, prev2)
 
 fibonacci(1, 0)
+print("done")
